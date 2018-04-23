@@ -1,5 +1,8 @@
 # Game-Colector
-# **Project 3 > Game Colector**
+
+# **Project 3**
+
+> *Game Colector Goal*
 
 ---
 
