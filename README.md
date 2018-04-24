@@ -1,4 +1,4 @@
-# Game-Collector
+# VG Collector  Website
 
 # **Project 3**
 
